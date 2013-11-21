@@ -1,0 +1,25 @@
+{
+  "name": "vulgarities",
+  "version": "0.0.1",
+  "description": "Unicode fractions made easy",
+  "dependencies": {
+    "gcd": "0.0.x"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben-ng/vulgarities.git"
+  },
+  "keywords": [
+    "unicode",
+    "fraction",
+    "ratio",
+    "vulgar"
+  ],
+  "author": "Ben Ng <me@benng.me> (http://benng.me)",
+  "license": "MIT"
+}
