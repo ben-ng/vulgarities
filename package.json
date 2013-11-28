@@ -1,6 +1,6 @@
 {
   "name": "vulgarities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unicode fractions made easy",
   "dependencies": {
     "gcd": "0.0.x"
