@@ -1,4 +1,4 @@
-var vulgarities = require('./vulgarities')
+var vulgarities = require('./index')
   , gcd = require('gcd')
   , vulgarFractionFor;
 
